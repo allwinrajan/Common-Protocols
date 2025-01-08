@@ -50,7 +50,7 @@ Device With Same IP reply with its MAC address.
 
 **Ports**: ports allow multiple application on the device use same IP for communication. Each port corresponds specific services or applications. 
 
-**Static Port: **Permanently assign the port to the specific service. (e.g., HTTP 80, HTTPS 443, Tomcat 8080) 
+**Static Port: ** Permanently assign the port to the specific service. (e.g., HTTP 80, HTTPS 443, Tomcat 8080) 
 
 **Dynamic Ports**: Temporary Port Assigned for client-side communication (Range 49512 - 65535)  
 
