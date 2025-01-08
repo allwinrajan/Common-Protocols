@@ -50,7 +50,7 @@ Device With Same IP reply with its MAC address.
 
 **Ports**: ports allow multiple application on the device use same IP for communication. Each port corresponds specific services or applications. 
 
-**Static Port: ** Permanently assign the port to the specific service. (e.g., HTTP 80, HTTPS 443, Tomcat 8080) 
+**Static Port:** Permanently assign the port to the specific service. (e.g., HTTP 80, HTTPS 443, Tomcat 8080) 
 
 **Dynamic Ports**: Temporary Port Assigned for client-side communication (Range 49512 - 65535)  
 
@@ -96,7 +96,7 @@ Device With Same IP reply with its MAC address.
 
 
 
-**IIS vs Apache Tomcat ** 
+**IIS vs Apache Tomcat** 
 
 **IIS (Internet Information Services)** 
 
@@ -110,7 +110,7 @@ Device With Same IP reply with its MAC address.
 
 **WWW (World Wide Web)** 
 
-**Purpose: **A collection of web pages and services accessible over internet, by using protocols HTTP/HTTPS. 
+**Purpose:** A collection of web pages and services accessible over internet, by using protocols HTTP/HTTPS. 
 
 
 
@@ -124,11 +124,11 @@ NTP is highly accurate.
 
 **SNTP (Simple Network Time Protocols)** 
 
-**Purpose: **Simpler version of NTP and SNTP used where the mile-second accuracy isn’t needed. 
+**Purpose:** Simpler version of NTP and SNTP used where the mile-second accuracy isn’t needed. 
 
 **SNMP (Simple Network Management Protocol)** 
 
-**Purpose: **Monitor and manage the devices on the network (e.g., Router, Switch) 
+**Purpose:** Monitor and manage the devices on the network (e.g., Router, Switch) 
 
 - SNMP agent will gather data from devices. 
 - SNMP manager will gather data from analysis. 
@@ -146,17 +146,17 @@ NTP is highly accurate.
 
 **FTP (File Transfer Protocol)** 
 
-**Purpose: **Transfer the file between the devices on the network. 
+**Purpose: ** Transfer the file between the devices on the network. 
 
 **Port**: 21  
 
-**Limitation: **Less secure,** **Data send in the form of plain text. 
+**Limitation:** Less secure, Data send in the form of plain text. 
 
 
 
 **SFTP (Secure File Transfer Protocol)** 
 
-**Purpose: **Securely Transfer the file with encryption between the devices on the network. 
+**Purpose:** Securely Transfer the file with encryption between the devices on the network. 
 
 **Port**: 22  
 
@@ -164,7 +164,7 @@ NTP is highly accurate.
 
 **SCP (Secure Copy Protocol)** 
 
-**Purpose: **Transfer the file Securely between the devices on the network using SSH encryption. 
+**Purpose:** Transfer the file Securely between the devices on the network using SSH encryption. 
 
 **Port**: 22  
 
